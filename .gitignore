@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -102,3 +103,16 @@ dist
 
 # TernJS port file
 .tern-port
+=======
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+>>>>>>> e1b120eaa383df8ba4025692067acad9f762730d
