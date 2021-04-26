@@ -104,6 +104,10 @@ module.exports = {
     },
 
   },
+  generate: {
+    dir: 'public'
+  },
+
   modules: [
     // 'nuxt-fullpage.js',
     'nuxt-gsap',
